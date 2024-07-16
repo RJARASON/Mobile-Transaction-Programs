@@ -4,7 +4,7 @@
 
 **To start the program**
 
-*Open 'Main_Login' and run!*
+*Open 'Main' and run!*
 ----------
 
 
